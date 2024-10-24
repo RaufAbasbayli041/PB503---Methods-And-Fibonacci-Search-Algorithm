@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\23.10.2024\PB503 - Methods Homework\PB503 - Methods Homework\bin\Debug\net8.0\PB503 - Methods Homework.exe
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\23.10.2024\PB503 - Methods Homework\PB503 - Methods Homework\bin\Debug\net8.0\PB503 - Methods Homework.deps.json
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\23.10.2024\PB503 - Methods Homework\PB503 - Methods Homework\bin\Debug\net8.0\PB503 - Methods Homework.runtimeconfig.json
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\23.10.2024\PB503 - Methods Homework\PB503 - Methods Homework\bin\Debug\net8.0\PB503 - Methods Homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\23.10.2024\PB503 - Methods Homework\PB503 - Methods Homework\bin\Debug\net8.0\PB503 - Methods Homework.pdb
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\23.10.2024\PB503 - Methods Homework\PB503 - Methods Homework\obj\Debug\net8.0\PB503 - Methods Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\23.10.2024\PB503 - Methods Homework\PB503 - Methods Homework\obj\Debug\net8.0\PB503 - Methods Homework.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\23.10.2024\PB503 - Methods Homework\PB503 - Methods Homework\obj\Debug\net8.0\PB503 - Methods Homework.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\23.10.2024\PB503 - Methods Homework\PB503 - Methods Homework\obj\Debug\net8.0\PB503 - Methods Homework.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\23.10.2024\PB503 - Methods Homework\PB503 - Methods Homework\obj\Debug\net8.0\PB503 - Methods Homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\23.10.2024\PB503 - Methods Homework\PB503 - Methods Homework\obj\Debug\net8.0\refint\PB503 - Methods Homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\23.10.2024\PB503 - Methods Homework\PB503 - Methods Homework\obj\Debug\net8.0\PB503 - Methods Homework.pdb
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\23.10.2024\PB503 - Methods Homework\PB503 - Methods Homework\obj\Debug\net8.0\PB503 - Methods Homework.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\23.10.2024\PB503 - Methods Homework\PB503 - Methods Homework\obj\Debug\net8.0\ref\PB503 - Methods Homework.dll
